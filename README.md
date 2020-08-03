@@ -1,2 +1,13 @@
 # ev3-power-functions
-This is a simple...
+A Python snippet to test the use of LEGO Power Functions with the LEGO EV3 Brick. This code uses [Pybricks](https://pybricks.com/) and an EV3 to Power Functions converter. The converter instructions are availabel from [Christoph Bartneck, Ph.D.](https://www.bartneck.de/2015/06/0) and [TechnicRobot](https://www.youtube.com/watch?v=Ns3TODgRlCE).
+
+This example activates any Power Functions light and/or motor using full speed forward and full speed reverse. 
+
+![Connection Diagram](https://github.com/codeadamca/ev3-power-functions/blob/master/connection-diagram.jpg?raw=true)
+
+Diagaram take from [TechnicRobot](https://www.youtube.com/watch?v=Ns3TODgRlCE).
+
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
+</a>
+
