@@ -1,4 +1,4 @@
-# LEGO EV3 and LEGO Power Functions
+# LEGO® EV3 and LEGO Power Functions
 
 A Python snippet to test the use of LEGO Power Functions with the LEGO EV3 Brick. This code uses [Pybricks](https://pybricks.com/) and an EV3 to Power Functions converter. The converter instructions are available from [Christoph Bartneck, Ph.D.](https://www.bartneck.de/2015/06/0) and [TechnicRobot](https://www.youtube.com/watch?v=Ns3TODgRlCE).
 
