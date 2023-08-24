@@ -6,7 +6,7 @@ This example activates any Power Functions light and/or motor using full speed f
 
 ![Connection Diagram](_readme/connection-diagram.jpg)
 
-> Diagaram taken from TechnicRobot:
+> Diagaram taken from TechnicRobot:  
 > [https://www.youtube.com/watch?v=Ns3TODgRlCE](`https://www.youtube.com/watch?v=Ns3TODgRlCE`)
 
 ---
