@@ -1,6 +1,6 @@
 #!/usr/bin/env pybricks-micropython
 from pybricks.hubs import EV3Brick
-from pybricks.ev3devices import (Motor)
+from pybricks.ev3devices import (DcMotor)
 from pybricks.parameters import Port
 from pybricks.tools import wait
 
@@ -10,7 +10,7 @@ ev3 = EV3Brick()
 # The power functions adapter will be recognized as a standard EV3
 # motor. Initilize the port using a standard EV3 motor, use the standard 
 # EV3 motor code to control Power Functions motors and/or lights. 
-motor = Motor(Port.A)
+motor = DcMotor(Port.A)
 
 # Beep to start the program
 ev3.speaker.beep()
