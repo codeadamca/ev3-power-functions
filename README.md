@@ -17,6 +17,7 @@ This example activates any Power Functions light and/or motor using full speed f
 - [Pybricks](https://pybricks.com/)
 - [Christoph Bartneck, Ph.D.](https://www.bartneck.de/2015/06/0)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
